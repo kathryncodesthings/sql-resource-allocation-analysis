@@ -15,10 +15,10 @@ The model consists of four core tables:
 - staff_activity_allocation – percentage split of activity types
 
 ## Key Business Questions
-- How is staff FTE distributed across departments?
-- What is the monthly salary cost by department?
-- How are salary costs allocated between teaching, research, and administration?
-- Are there staff with total FTE exceeding 1.0 across multiple jobs?
+- How is staff FTE distributed across departments?: [Query 1](https://github.com/kathryncodesthings/sql-resource-allocation-analysis/blob/main/queries/01_data_validation.sql)
+- What is the monthly salary cost by department? [Query 2](https://github.com/kathryncodesthings/sql-resource-allocation-analysis/blob/main/queries/02_core_metrics.sql)
+- How are salary costs allocated between teaching, research, and administration? [Query 3](https://github.com/kathryncodesthings/sql-resource-allocation-analysis/blob/main/queries/02_core_metrics.sql)
+- Are there staff with total FTE exceeding 1.0 across multiple jobs? [Query 4](https://github.com/kathryncodesthings/sql-resource-allocation-analysis/blob/main/queries/04_advanced_analysis.sql)
 
 ## SQL Techniques Demonstrated
 - Common Table Expressions (CTEs)
@@ -28,4 +28,4 @@ The model consists of four core tables:
 - Data validation queries
 
 ## Notes
-Queries are written in PostgreSQL-style SQL and are intended for illustrative  purposes. Sample CSV data is provided to demonstrate expected table structure and relationships.
+Queries are written in PostgreSQL-style SQL and are intended for illustrative  purposes. Dummy CSV data is provided to demonstrate expected table structure and relationships.
