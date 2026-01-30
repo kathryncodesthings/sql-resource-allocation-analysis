@@ -27,5 +27,34 @@ The model consists of four core tables:
 - Conditional aggregation
 - Data validation queries
 
+## Example Output
+The output for Query 3 is as follows:
+| department           | activity_type   | allocated_cost|
+|---------------------|-----------------|--------------:|
+|Business School      | Administration  | 2800.00|
+|Chemistry            | Administration  | 607.50|
+|Chemistry            | Research        | 3442.50|
+|Computer Science     | Administration  | 390.00|
+|Computer Science     | Teaching        | 1560.00|
+|Economics            | Administration  | 508.33|
+|Economics            | Research        | 2033.33|
+|Economics            | Teaching        | 2541.67|
+|Engineering          | Administration  | 3000.00|
+|History               | Administration | 433.33|
+|History               | Research       | 1300.00|
+|History               | Teaching       | 2600.00|
+|Information Services | Administration  | 4833.33|
+|Life Sciences        | Administration  | 286.67|
+|Life Sciences        | Research        | 2580.00|
+|Physics              | Research        | 3541.67|
+|Physics              | Teaching        | 1366.67|
+|Public Health        | Administration  | 396.67|
+|Public Health        | Research        | 1586.67|
+|Sociology            | Administration  | 333.33|
+|Sociology            | Research        | 1166.67|
+|Sociology            | Teaching        | 1833.33|
+
+(Values rounded to 2 d.p. for readability)
+
 ## Notes
 Queries are written in PostgreSQL-style SQL and are intended for illustrative  purposes. Dummy CSV data is provided to demonstrate expected table structure and relationships.
