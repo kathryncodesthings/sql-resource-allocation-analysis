@@ -1,25 +1,16 @@
-staff_id,role,grade,fte
-1,Lecturer,Grade 8,1.0
-2,Researcher,Grade 7,1
-3,Professor,Grade 10,1
-4,Lecturer,Grade 8,1.0
-5,Researcher,Grade 8,0.8
-6,Professor,Grade 10,1
-7,Lecturer,Grade 7,1.0
-8,Researcher,Grade 7,1
-9,Professor,Grade 10,0.6
-10,Lecturer,Grade 8,1.0
-11,Researcher,Grade 8,0.8
-12,Professor,Grade 10,0.6
-13,Lecturer,Grade 9,1.0
-14,Researcher,Grade 7,0.8
-15,Professor,Grade 10,1
-16,Lecturer,Grade 7,1.0
-17,Researcher,Grade 9,1
-18,Professor,Grade 10,0.6
-19,Lecturer,Grade 6,1.0
-20,Researcher,Grade 8,1
-21,Professor,Grade 10,1
-22,Lecturer,Grade 8,0.8
-23,Researcher,Grade 8,0.6
-24,Professor,Grade 10,0.8
+staff_number,staff_email,first_name,last_name
+1001,alex.turner@university.ac.uk,Alex,Turner
+1002,priya.shah@university.ac.uk,Priya,Shah
+1003,james.wilson@university.ac.uk,James,Wilson
+1004,emily.chen@university.ac.uk,Emily,Chen
+1005,daniel.murphy@university.ac.uk,Daniel,Murphy
+1006,sarah.khan@university.ac.uk,Sarah,Khan
+1007,thomas.brown@university.ac.uk,Thomas,Brown
+1008,laura.garcia@university.ac.uk,Laura,Garcia
+1009,michael.okeefe@university.ac.uk,Michael,Okeefe
+1010,amina.hassan@university.ac.uk,Amina,Hassan
+1011,oliver.green@university.ac.uk,Oliver,Green
+1012,sofia.rossi@university.ac.uk,Sofia,Rossi
+1013,benjamin.lee@university.ac.uk,Benjamin,Lee
+1014,natalie.cooper@university.ac.uk,Natalie,Cooper
+1015,raj.patel@university.ac.uk,Raj,Patel

@@ -1,0 +1,13 @@
+staff_number,job_number,job_title,fte_aug,fte_sep,fte_oct,fte_nov,fte_dec,fte_jan,fte_feb,fte_mar,fte_apr,fte_may,fte_jun,fte_jul,job_classification,department
+1001,J1001-1,Lecturer,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Teaching and Research,History
+1002,J1002-1,Research Fellow,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,Research,Life Sciences
+1003,J1003-1,Senior Lecturer,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Teaching and Research,Economics
+1004,J1004-1,Teaching Fellow,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,0.6,Teaching,Computer Science
+1005,J1005-1,Professor,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,Teaching and Research,Physics
+1005,J1005-2,Research Lead,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,0.3,Research,Physics
+1006,J1006-1,Department Administrator,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Administration,Engineering
+1007,J1007-1,Senior Researcher,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,0.9,Research,Chemistry
+1008,J1008-1,Lecturer,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,Teaching and Research,Sociology
+1009,J1009-1,IT Systems Manager,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,Administration,Information Services
+1010,J1010-1,Research Assistant,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,0.7,Research,Public Health
+1011,J1011-1,Programme Manager,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,0.8,Administration,Business School
