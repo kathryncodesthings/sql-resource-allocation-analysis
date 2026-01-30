@@ -1,0 +1,25 @@
+staff_id,role,grade,fte
+1,Lecturer,Grade 8,1.0
+2,Researcher,Grade 7,1
+3,Professor,Grade 10,1
+4,Lecturer,Grade 8,1.0
+5,Researcher,Grade 8,0.8
+6,Professor,Grade 10,1
+7,Lecturer,Grade 7,1.0
+8,Researcher,Grade 7,1
+9,Professor,Grade 10,0.6
+10,Lecturer,Grade 8,1.0
+11,Researcher,Grade 8,0.8
+12,Professor,Grade 10,0.6
+13,Lecturer,Grade 9,1.0
+14,Researcher,Grade 7,0.8
+15,Professor,Grade 10,1
+16,Lecturer,Grade 7,1.0
+17,Researcher,Grade 9,1
+18,Professor,Grade 10,0.6
+19,Lecturer,Grade 6,1.0
+20,Researcher,Grade 8,1
+21,Professor,Grade 10,1
+22,Lecturer,Grade 8,0.8
+23,Researcher,Grade 8,0.6
+24,Professor,Grade 10,0.8
