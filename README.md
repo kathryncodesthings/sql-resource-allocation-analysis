@@ -2,9 +2,9 @@
 
 ## Overview
 
-This project demonstrates analytical SQL used to model and analyse staff costing, FTE allocation, and activity-based cost distribution within a university-style organisation.
+This project demonstrates analytical SQL used to model and analyse staff costing, FTE allocation, and activity-based cost distribution within a university-type organisation.
 
-The focus is on query logic and analytical thinking, rather than database deployment.
+I've shown query logic and analytical thinking, rather than database deployment.
 
 ## Data Model
 
@@ -18,7 +18,7 @@ The model consists of four core tables:
 - How is staff FTE distributed across departments?: [Query 1](https://github.com/kathryncodesthings/sql-resource-allocation-analysis/blob/main/queries/01_data_validation.sql)
 - What is the monthly salary cost by department? [Query 2](https://github.com/kathryncodesthings/sql-resource-allocation-analysis/blob/main/queries/02_core_metrics.sql)
 - How are salary costs allocated between teaching, research, and administration? [Query 3](https://github.com/kathryncodesthings/sql-resource-allocation-analysis/blob/main/queries/02_core_metrics.sql)
-- Are there staff with total FTE exceeding 1.0 across multiple jobs? [Query 4](https://github.com/kathryncodesthings/sql-resource-allocation-analysis/blob/main/queries/04_advanced_analysis.sql)
+- Are there staff with a total FTE exceeding 1.0 across multiple jobs? [Query 4](https://github.com/kathryncodesthings/sql-resource-allocation-analysis/blob/main/queries/04_advanced_analysis.sql)
 
 ## SQL Techniques Demonstrated
 - Common Table Expressions (CTEs)
