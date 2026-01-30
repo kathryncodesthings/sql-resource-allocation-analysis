@@ -23,7 +23,6 @@ The model consists of four core tables:
 ## SQL Techniques Demonstrated
 - Common Table Expressions (CTEs) <!-- A CTE is a temporary, named result set defined with WITH that makes complex SQL easier to read and reason about. Similar to a variable -->
 - Multi-table joins
-- Window functions <!-- "For each row, I’ll look through a ‘window’ of related rows and calculate something, but I won’t remove the row itself." -->
 - Conditional aggregation
 - Data validation queries
 
