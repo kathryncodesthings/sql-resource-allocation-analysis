@@ -21,9 +21,9 @@ The model consists of four core tables:
 - Are there staff with a total FTE exceeding 1.0 across multiple jobs? [Query 4](https://github.com/kathryncodesthings/sql-resource-allocation-analysis/blob/main/queries/04_advanced_analysis.sql)
 
 ## SQL Techniques Demonstrated
-- Common Table Expressions (CTEs)
+- Common Table Expressions (CTEs) <!-- A CTE is a temporary, named result set defined with WITH that makes complex SQL easier to read and reason about. -->
 - Multi-table joins
-- Window functions
+- Window functions <!-- "For each row, I’ll look through a ‘window’ of related rows and calculate something, but I won’t remove the row itself." -->
 - Conditional aggregation
 - Data validation queries
 
