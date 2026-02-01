@@ -6,6 +6,8 @@ This project demonstrates analytical SQL used to model and analyse staff costing
 
 I've shown query logic and analytical thinking, rather than database deployment.
 
+To work with the example data and test the SQL queries, I used [DB Browser for SQLite](https://sqlitebrowser.org/).
+
 ## Data Model
 
 The model consists of four core tables:
